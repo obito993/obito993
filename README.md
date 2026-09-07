@@ -22,6 +22,10 @@
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
+<a href="https://deion-bernard-chronicles.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=obito993&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS">
@@ -378,6 +382,10 @@ current_focus:
 
 <a href="https://linkedin.com/in/deion-bernard-1515a828">
 <img src="https://img.shields.io/badge/LinkedIn-Deion%20Bernard-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://deion-bernard-chronicles.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
 </div>
